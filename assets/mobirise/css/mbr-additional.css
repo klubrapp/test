@@ -408,12 +408,6 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-#header5-1 .mbr-section-title {
-  color: #000;
-}
-#header5-1 .mbr-section-lead {
-  color: #9c9a9a;
-}
 #ext_menu-3 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -474,4 +468,23 @@ h6,
 #ext_menu-3 .link[aria-expanded="true"],
 #ext_menu-3 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box5-6 H3 {
+  text-align: right;
+}
+#msg-box8-9 .mbr-section-title,
+#msg-box8-9 p {
+  color: #fff;
+}
+#msg-box8-9 .mbr-section-title {
+  text-align: left;
+}
+#msg-box8-9 .lead P {
+  text-align: center;
+}
+#form2-a .mbr-section-title {
+  color: #ffffff;
+}
+#form2-a .mbr-section-subtitle {
+  color: #a0a0a0;
 }
